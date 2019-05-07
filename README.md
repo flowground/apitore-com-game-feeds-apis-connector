@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) Game feeds APIs MSP Connector
+# ![LOGO](logo.png) Game feeds APIs **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the Game feeds APIs API (version 0.0.1).
+A generated **flow**ground connector for the Game feeds APIs API (version 0.0.1).
 
 Generated from: https://api.apis.guru/v2/specs/apitore.com/gameFeedsApis/0.0.1/swagger.json<br/>
-Generated at: 2019-05-07T11:17:00+03:00
+Generated at: 2019-05-07T17:36:39+03:00
 
 ## API Description
 
@@ -29,7 +29,7 @@ This API does not require authorization.
 
 ## License
 
-flowground :- Telekom iPaaS / apitore-com-game-feeds-apis-connector<br/>
+**flow**ground :- Telekom iPaaS / apitore-com-game-feeds-apis-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
